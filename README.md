@@ -34,5 +34,7 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
+### _Isaiah Rothschild Iroths_
 Write your paragraph on the importance of the required plot elements here.
+
+Making sure that all the required plot elements are pressent ensures legebillity and intelligabillity of the graph. Contrasting collors are important to be able to read two datasets being represented on the same plot. Axis and figure titles are important for knowing what data is being represented on the figure and proper tick spacing and values are important for legibillity.
